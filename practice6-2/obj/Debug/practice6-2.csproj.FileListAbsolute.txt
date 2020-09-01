@@ -1,0 +1,10 @@
+C:\Users\KU\Desktop\practice6-2\practice6-2\bin\Debug\practice6-2.exe.config
+C:\Users\KU\Desktop\practice6-2\practice6-2\bin\Debug\practice6-2.exe
+C:\Users\KU\Desktop\practice6-2\practice6-2\bin\Debug\practice6-2.pdb
+C:\Users\KU\Desktop\practice6-2\practice6-2\obj\Debug\practice6-2.csprojAssemblyReference.cache
+C:\Users\KU\Desktop\practice6-2\practice6-2\obj\Debug\practice6_2.Form1.resources
+C:\Users\KU\Desktop\practice6-2\practice6-2\obj\Debug\practice6_2.Properties.Resources.resources
+C:\Users\KU\Desktop\practice6-2\practice6-2\obj\Debug\practice6-2.csproj.GenerateResource.cache
+C:\Users\KU\Desktop\practice6-2\practice6-2\obj\Debug\practice6-2.csproj.CoreCompileInputs.cache
+C:\Users\KU\Desktop\practice6-2\practice6-2\obj\Debug\practice6-2.exe
+C:\Users\KU\Desktop\practice6-2\practice6-2\obj\Debug\practice6-2.pdb
